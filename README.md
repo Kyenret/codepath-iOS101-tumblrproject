@@ -1,17 +1,17 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *Tumblr Feed*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that ... [TODO] 
+**Tumblr feed** is an app that fetches a feed of blog posts from the Tumblr API and displays them to the user in a scrolling list. 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App has a configured table view and table view call
-- [ ] App populates the table view with data fetched from an API
+- [x] App has a configured table view and table view call
+- [x] App populates the table view with data fetched from an API
 
 
 The following **optional** features are implemented:
@@ -25,17 +25,22 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+<div>
+    <a href="https://www.loom.com/share/4431e611c2c3417a8d032aea4a3fd319">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4431e611c2c3417a8d032aea4a3fd319-with-play.gif">
+    </a>
+    
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project has been a highlight for me! Thanks to the lectures and labs, I acquired a good background understanding of how to implement table views. This greatly facilitated my progress in the project. Additionally, a personal highlight for me was successfully debugging my code independently!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kyenret Yakubu Ayuba]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
